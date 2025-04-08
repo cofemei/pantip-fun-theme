@@ -1,3 +1,6 @@
+
+![screenshot](https://raw.githubusercontent.com/cofemei/pantip-fun-theme/refs/heads/main/doc/images/Screenshot.png)
+
 # Pantip Fun Theme
 
 Pantip Fun Theme is a custom dark theme for Visual Studio Code, designed to provide a visually appealing and comfortable coding experience.
