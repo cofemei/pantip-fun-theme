@@ -3,15 +3,19 @@
   "displayName": "Pantip Fun Theme",
   "publisher": "connect@deertw.com",
   "version": "0.0.1",
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/cofemei/pantip-fun-theme"
+  },
   "engines": {
-    "vscode": "^1.50.0"
+    "vscode": "^1.43.0"
   },
   "contributes": {
     "themes": [
       {
         "label": "Pantip Fun",
         "uiTheme": "vs-dark",
-        "path": "./themes/pantip-fun-color-theme.json"
+        "path": "./themes/pantip-fun-theme.json"
       }
     ]
   }
