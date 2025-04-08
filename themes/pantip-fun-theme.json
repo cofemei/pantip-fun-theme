@@ -1,13 +1,13 @@
 {
-  "name": "Pantip Fun",
+  "name": "Pantip Fun Blue",
   "type": "dark",
   "colors": {
-    "editor.background": "#2B2D50",
-    "editor.foreground": "#E0E0E0",
-    "editorCursor.foreground": "#FDD835",
-    "editor.lineHighlightBackground": "#2B2D50AA",
-    "editor.selectionBackground": "#673AB750",
-    "editor.selectionHighlightBackground": "#FF8A6555",
+    "editor.background": "#12305C",
+    "editor.foreground": "#FFFFFF",
+    "editorCursor.foreground": "#FFD700",
+    "editor.lineHighlightBackground": "#0C1B3E",
+    "editor.selectionBackground": "#2C4A7A",
+    "editor.selectionHighlightBackground": "#2C4A7A99",
     "editorIndentGuide.background": "#4DB6AC55",
     "editorWhitespace.foreground": "#4DB6AC33",
     "sideBar.background": "#2B2D50",
@@ -25,20 +25,14 @@
     {
       "scope": ["keyword", "storage.type"],
       "settings": {
-        "foreground": "#FDD835",
+        "foreground": "#FFD700",
         "fontStyle": "bold"
       }
     },
     {
-      "scope": ["string", "constant.other.symbol"],
+      "scope": ["string"],
       "settings": {
         "foreground": "#FF8A65"
-      }
-    },
-    {
-      "scope": ["variable", "identifier"],
-      "settings": {
-        "foreground": "#E0E0E0"
       }
     },
     {
@@ -50,6 +44,12 @@
     },
     {
       "scope": ["function", "entity.name.function"],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "scope": ["variable", "identifier"],
       "settings": {
         "foreground": "#FFFFFF"
       }
